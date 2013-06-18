@@ -1,0 +1,24 @@
+
+One day in the past, a friend and I were talking about optimizing code, 
+and he mentioned he was writing a perl program to "unboggle" - that is, 
+to take a random seqence of letters and generate words from it.  Just 
+like you do when playing Boggle.
+
+I thought this would be a great exercize, so I started it too.  The first
+iteration took 20 seconds, not counting dictionary load time.
+
+The second 2 seconds.
+
+Then 1,
+
+    then 0.5
+
+        then 0.25
+
+            then 0.0212.
+
+
+Some time after that, I started to learn Python, so I wrote 
+a Python unboggle program.
+
+Try it yourself!
